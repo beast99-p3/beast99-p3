@@ -59,14 +59,14 @@ I'm a Cybersecurity Analyst and Cloud Security Enthusiast currently pursuing my 
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyeshem&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyeshem&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beast99-p3&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beast99-p3&layout=compact&theme=radical)
 
 ---
 
 ### 📬 Contact
 
 📧 Email: priyeshem@example.com  
-🔗 LinkedIn: [linkedin.com/in/priyeshem](https://linkedin.com/in/priyeshem)  
+🔗 LinkedIn: [linkedin.com/in/priyeshem](https://www.linkedin.com/in/priyesh-em-/)  
 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 📍 Washington, D.C., USA
