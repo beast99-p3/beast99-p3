@@ -5,54 +5,96 @@
 ### 🔍 About Me  
 I'm a Cybersecurity Analyst and Cloud Security Enthusiast currently pursuing my MS in Cybersecurity at George Washington University. With a strong background in penetration testing, cloud security, and AI-based threat detection, I am passionate about building innovative and secure digital solutions.
 
-- 🔐 Specializing in Penetration Testing, Vulnerability Assessment, Security Architecture, and GRC.
-- ☁️ Exploring and working with AWS, Azure, Microsoft Azure AD, and Red Hat Linux.
-- 🧠 Sharing knowledge through projects like **MOM - My Own Medic**, a personalized AI-based health assistant integrated with EHRs.
-- ⚙️ Focused on Secure DevOps, Threat Detection, and Cloud-Native Security Automation.
-- 🚀 Open to collaborations in cybersecurity research, red teaming, and building real-time defensive security tools.
+- 🔐 Specializing in Penetration Testing, Vulnerability Management, Security Architecture, and GRC practices.
+- ☁️ Hands-on experience with AWS, Azure, Google Cloud, Azure AD, and Red Hat Enterprise Linux in real-world and academic environments.
+- 🧠 Building security-focused projects like **MOM - My Own Medic**, an AI-powered EHR-integrated health assistant with HIPAA-compliant design.
+- ⚙️ Passionate about Secure DevOps, Threat Detection, SIEM integration, and Cloud-Native Security Automation.
+- 🚀 Actively exploring LLM Security, Red Teaming simulations, and collaborative research in AI-powered defense and cloud security.
 
 ---
 
 ### 🧰 Toolbox  
 
-**Programming Languages:**  
-`Python` `Bash` `PowerShell` `Java` `C/C++` `HTML`  
+### 🧰 Toolbox
 
-**Cybersecurity Tools:**  
-`Metasploit` `Wireshark` `Nmap` `Burp Suite` `Nessus` `OpenVAS` `Splunk` `Snort`
+**Programming & Scripting Languages:**  
+`Python` `Java` `C/C++` `Bash` `PowerShell` `HTML/CSS` `SQL`
 
-**Cloud & Platforms:**  
-`AWS` `Azure` `Red Hat Enterprise Linux` `Google Cloud`  
+**Cybersecurity Tools & Platforms:**  
+`Metasploit` `Burp Suite` `Nmap` `Wireshark` `Nessus` `OpenVAS` `Snort` `Splunk` `TryHackMe` `Hack The Box`
 
-**Frameworks & Dev Tools:**  
-`FastAPI` `React.js` `Tailwind CSS` `PostgreSQL` `Firebase` `GitHub` `VS Code`  
+**Cloud & Operating Systems:**  
+`Amazon Web Services (AWS)` `Microsoft Azure` `Google Cloud Platform (GCP)`  
+`Red Hat Enterprise Linux (RHEL)` `Ubuntu` `Windows Server`
 
-**Certifications:**  
-🟣 AWS Cloud Security Builder | Cloud Security Foundations | Cloud Operations  
-🔵 Red Hat System Administration I  
-🟡 Google Cybersecurity Specialization  
-🟠 Career Essentials in Cybersecurity by Microsoft & LinkedIn  
-🔴 Cybersecurity Analyst Job Simulation (Tata Group)  
-🟢 PG Diploma in Cybersecurity (NIT Rourkela)  
-🔵 Python Programming Certification (IANT)
+**Frameworks, Libraries & Dev Tools:**  
+`FastAPI` `Flask` `React.js` `Tailwind CSS` `Node.js`  
+`PostgreSQL` `MongoDB` `Firebase` `GitHub` `VS Code` `Docker`
+
+**Security & DevOps:**  
+`OAuth 2.0` `JWT` `HIPAA Compliance` `CI/CD Pipelines` `Security Automation` `SIEM Integration`  
+
+### 🎓 Certifications
+
+🟣 **AWS Certifications**  
+- AWS Academy Cloud Security Builder *(2025)*  
+- AWS Academy Cloud Security Foundations *(2025)*  
+- AWS Academy Cloud Operations *(2025)*  
+- AWS Academy Cloud Foundations *(2025)*  
+
+🔵 **Microsoft & Google**  
+- Career Essentials in Cybersecurity – Microsoft & LinkedIn *(2025)*  
+- Google Cybersecurity Specialization *(2024)*  
+
+🟠 **Virtual Experience & Practical Labs**  
+- Cybersecurity Analyst Job Simulation – Tata Group (Forage) *(2024)*  
+
+🟢 **Academic & Institutional Programs**  
+- PG Diploma in Cybersecurity – NIT Rourkela *(2023)*  
+- Python Programming Certification – IANT *(2022)*  
+
+🛡️ **Planned Certifications**  
+- CompTIA Security+ *(Target: Summer 2025)*  
+- CEH – Certified Ethical Hacker *(Target: Fall 2025)*
 
 ---
 
 ### 💼 Professional Experience
 
-**Cybersecurity Intern** – *Multiple Projects at GWU & Forage*  
-- Built AI-powered health assistant MOM at George Hacks 2024  
-- Completed real-world simulations in cyber incident response and GRC
+**Technology Risk Management Analyst – Business Consulting**  
+*Ernst & Young – Global Delivery Services*  
+📍 Bengaluru, India | 🗓️ June 2022 – December 2023  
+- Conducted and oversaw 10+ technology, business, and security audits aligned with global standards  
+- Led initiatives in audit automation and compliance monitoring, boosting operational efficiency by 30%  
+- Streamlined data analysis using advanced Excel, reducing manual compliance reporting by 40%  
+- Collaborated with IT teams to enforce security controls and manage IT Automated & General Controls  
 
-**Security Associate** – *Freelance & Academic Projects*  
-- Conducted threat analysis, vulnerability assessments, and compliance audits
+**Penetration Tester – Intern**  
+*Illumine Career Center*  
+📍 Ballari, India | 🗓️ January 2022 – May 2022  
+- Led 5+ front-end application revamps, improving responsiveness and UI/UX by 30%  
+- Conducted penetration testing and identified 12+ security vulnerabilities across networks and applications  
+- Supported security architecture reviews and deployed access-control systems using RBAC, reducing unauthorized access by 25%  
+- Provided IT support and achieved 99.0% system uptime by resolving infrastructure issues efficiently
 
 ---
 
 ### 🏆 Achievements  
-- 🥇 1st Place at George Hacks for "MOM - My Own Medic" AI health security assistant  
-- 🛡️ Completed multiple TryHackMe & HackTheBox challenges  
-- 🧠 Presented at AGU on climate & security tech for megacities  
+**🥈 Finalist – George Hacks 2025**  
+📍 Washington D.C. | 🗓️ February 2025  
+Developed **MOM (My Own Medic)** – an AI-powered healthcare assistant that integrates EHRs for real-time tracking, predictive alerts, and personalized care.  
+Focused on **HIPAA-compliant** design, wearable device integration, and AI-driven health analytics.
+
+**🔖 Tags:** `AI/ML Integration` `EHR Security` `HealthTech`
+
+**🎮 Participant – TryHackMe Capture the Flag**  
+📍 Virtual | 🗓️ March 2025  
+Completed a 24-hour CTF focused on **penetration testing**, **reverse engineering**, and **real-world red team simulations**.  
+Achieved top scores across key offensive security modules.
+
+**🔖 Tags:** `Penetration Testing` `Red Team Ops` `Exploit Development`
+
+- 🛡️ Completed multiple TryHackMe & HackTheBox challenges    
 - 🏅 Guinness World Record holder in Classical & Western Dance  
 
 ---
@@ -66,7 +108,7 @@ I'm a Cybersecurity Analyst and Cloud Security Enthusiast currently pursuing my 
 
 ### 📬 Contact
 
-📧 Email: priyeshem@example.com  
+📧 Email: priyeshem3@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/priyeshem](https://www.linkedin.com/in/priyesh-em-/)  
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+🌐 Portfolio: [yourportfolio.com](https://beast99-p3.github.io/Portfolio/)  
 📍 Washington, D.C., USA
