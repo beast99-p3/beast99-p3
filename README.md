@@ -13,8 +13,6 @@ I'm a Cybersecurity Analyst and Cloud Security Enthusiast currently pursuing my 
 
 ---
 
-### 🧰 Toolbox  
-
 ### 🧰 Toolbox
 
 **Programming & Scripting Languages:**  
