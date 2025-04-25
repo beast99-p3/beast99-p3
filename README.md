@@ -107,6 +107,6 @@ Achieved top scores across key offensive security modules.
 ### 📬 Contact
 
 📧 Email: priyeshem3@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/priyeshem](https://www.linkedin.com/in/priyesh-em-/)  
-🌐 Portfolio: [yourportfolio.com](https://beast99-p3.github.io/Portfolio/)  
+🔗 LinkedIn: [priyeshem](https://www.linkedin.com/in/priyesh-em-/)  
+🌐 Portfolio: [cybersafe](https://beast99-p3.github.io/Portfolio/)  
 📍 Washington, D.C., USA
