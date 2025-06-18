@@ -35,10 +35,15 @@ I'm a Cybersecurity Analyst and Cloud Security Enthusiast currently pursuing my 
 ### 🎓 Certifications
 
 🟣 **AWS Certifications**  
+- AWS Certified Security – Specialty (SCS-C02) *(2025)*
 - AWS Academy Cloud Security Builder *(2025)*  
 - AWS Academy Cloud Security Foundations *(2025)*  
 - AWS Academy Cloud Operations *(2025)*  
-- AWS Academy Cloud Foundations *(2025)*  
+- AWS Academy Cloud Foundations *(2025)*
+
+🟢 **RedHat Certifications**
+- System Administration I and II (RH124 and 134) *(2025)*
+- OpenShift Administration I (RHDO180) *(2025)*
 
 🔵 **Microsoft & Google**  
 - Career Essentials in Cybersecurity – Microsoft & LinkedIn *(2025)*  
