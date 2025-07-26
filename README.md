@@ -56,10 +56,15 @@ I'm a Cybersecurity Analyst and Cloud Security Enthusiast currently pursuing my 
 - PG Diploma in Cybersecurity – NIT Rourkela *(2023)*  
 - Python Programming Certification – IANT *(2022)*  
 
-🛡️ **Planned Certifications**  
-- CompTIA Security+ *(Target: Summer 2025)*  
-- CEH – Certified Ethical Hacker *(Target: Fall 2025)*
+🟣 **Industry Certifications**
+- CompTIA Security+ - SY0-701 *(2025)*
 
+🛡️ **Planned Certifications**  
+-   
+- CEH – Certified Ethical Hacker *(Target: Fall 2025)*
+- Certified Ethical Hacker (CEH) – In Progress *(Target: Fall 2025)*
+- CompTIA CySA+ – Next Target
+- Future Goals: OSCP (Offensive Security Certified Professional), Microsoft AZ-500 (Azure Security Engineer Associate)
 ---
 
 ### 💼 Professional Experience
