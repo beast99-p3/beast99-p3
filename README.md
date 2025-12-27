@@ -1,146 +1,167 @@
-👋 Hi, I’m Priyesh EM 🛡️
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=190&section=header&text=Priyesh%20EM&fontSize=54&fontColor=00ff9c&animation=twinkling&fontAlignY=35"
+    alt="header"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=Security+Engineer+%7C+Cloud+Security;Threat+Detection+%7C+SIEM+%7C+IAM;Penetration+Testing+%7C+Vulnerability+Management;Security+Automation+with+Python+%26+PowerShell;Building+secure+systems%E2%80%94one+alert+at+a+time."
+    alt="typing"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=beast99-p3&label=PROFILE+ACCESS+LOGS&color=00ff9c&style=for-the-badge"
+    alt="views"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyesh-em-/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="linkedin" />
+  </a>
+  <a href="https://beast99-p3.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c" alt="portfolio" />
+  </a>
+  <a href="mailto:priyeshem3@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="email" />
+  </a>
+  <a href="https://github.com/beast99-p3">
+    <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c" alt="github" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850" alt="matrix code rain" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" />
+</p>
+
+
+## 🛰️ SOC Terminal
+
+```bash
+[STATUS]      ONLINE ✅
+[ROLE]        Security Engineer / Penetration Tester / Technology Risk Mangement Analyst / Cloud Security
+[FOCUS]       SIEM • Detection Engineering • IAM • Vulnerability Mgmt
+[TOOLING]     Python • PowerShell • Splunk • AWS • RHEL
+[MISSION]     Build defenses that are measurable, automated, and resilient.
+```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
+
+## 🔐 About Me
+
+```bash
+I’m Priyesh EM - a cybersecurity professional who has completed an MS in Cybersecurity.
+with a Master’s in System Security (Dec 2022). I build and secure systems across cloud, endpoints, and logs.
+
+FOCUS:      SIEM • Threat Detection • Cloud Security • IAM • Vulnerability Assessment • Incident Response • Risk Management • DevSecOps
+PLATFORMS:  AWS • Azure • GCP • Azure AD • RHEL • Windows
+AUTOMATION: Python • PowerShell • Bash • SQL
+EXPLORING:  LLM Security • Agentic AI Risks • AI-assisted threat analysis
+
+```
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
+
+## 🧠 How I Think About Security
+```bash
+- 🔍 Visibility first — strong logging, asset inventory, and baselines before “hardening”  
+- 🧱 Secure by design — least privilege, segmentation, and clear trust boundaries  
+- 🤖 Automation with accountability — detection and response should be explainable, testable, and auditable  
+- ⚙️ Resilience over perfection — fast triage, containment, and recovery matter as much as prevention  
+- 🔐 Continuous security — threat modeling, monitoring, tuning, and lessons learned on every incident  
+```
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
+
+## 🧩 Threat Modeling Mindset
+
+- 🎯 **Assets I protect:** identities (IAM), credentials/secrets, cloud workloads, endpoints, logs, and sensitive data  
+- 🧨 **Threats I plan for:** misconfigurations, credential abuse, phishing, lateral movement, malware, and data exfiltration  
+- 🛡️ **Controls I rely on:** least privilege + MFA, segmentation, patching/hardening, monitoring/alerting, and secure defaults  
+- 🔁 **How I improve:** detect → validate → contain → eradicate → recover → document → automate → repeat  
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
+
+## 🚀 Featured Security Projects
+
+SIEM Sentinel — Web-based SIEM tool for security log analysis, threat detection, and geolocation enrichment
+🔗 https://github.com/beast99-p3/Sentinel-SIEM  
+CTI Dashboard — IP reputation + investigation dashboard powered by AbuseIPDB API
+🔗 https://github.com/beast99-p3  
+Portfolio — Projects, hackathons, and write-ups
+🔗 https://beast99-p3.github.io/Portfolio/
 
-Cybersecurity Analyst | Cloud Security | Threat Detection | Secure Systems
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
 
-🔐 About Me
+## 🎓 Certifications
 
-I’m a cybersecurity professional and graduate student pursuing an MS in Cybersecurity at The George Washington University. My interests lie at the intersection of offensive security, cloud defense, and AI-driven threat detection, with hands-on experience across audits, penetration testing, cloud security, and secure system design.
+🟣 AWS  
+AWS Certified Security – Specialty (SCS-C02) (2025)  
+AWS Academy: Cloud Security Builder / Cloud Security Foundations / Cloud Operations / Cloud Foundations (2025)  
 
-🛡️ Focused on penetration testing, vulnerability management, SIEM, cloud security, and GRC
+🟢 Red Hat  
+System Administration I & II (RH124 / RH134) (2025)  
+OpenShift Administration I (DO180) (2025)  
 
-☁️ Practical experience securing environments across AWS, Azure, GCP, Azure AD, and Red Hat Enterprise Linux
+🔵 Microsoft & Google  
+Career Essentials in Cybersecurity – Microsoft & LinkedIn (2025)  
+Google Cybersecurity Specialization (2024)  
 
-🧠 Builder of security-centric projects such as MOM (My Own Medic) — an AI-powered, HIPAA-aware healthcare assistant
+🟠 Hands-On Labs & Simulations  
+Cybersecurity Analyst Job Simulation – Tata Group (Forage) (2024)  
 
-⚙️ Interested in Secure DevOps, detection engineering, SIEM automation, and cloud-native security
+🟢 Academic Programs  
+PG Diploma in Cybersecurity – NIT Rourkela (2023)  
+Python Programming Certification – IANT (2022)  
 
-🚀 Actively exploring LLM security, agentic AI risks, red team simulations, and AI-assisted defense
+🛡️ Industry  
+CompTIA Security+ (SY0-701) (2025)  
 
-🧠 How I Think About Security
+🎯 In Progress / Next  
+CEH (Target: Spring 2026)  
+CompTIA CySA+ (Next)  
+OSCP | AZ-500 (Future Goals)  
 
-I approach cybersecurity with a defender-first and systems-oriented mindset, grounded in fundamentals rather than tools alone.
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
 
-🔍 Visibility before control — you can’t protect what you can’t observe
+## 💼 Experience
 
-🧱 Strong architecture beats reactive fixes — least privilege, segmentation, and clear trust boundaries matter
+### Ernst & Young (EY) — Global Delivery Services, India  
+**Analyst — Business Consulting (Technology Risk Management)** | *Jun 2022 – Dec 2023*  
+- Led and supported **10+ technology, business, and security audits**, validating control effectiveness and compliance with industry/regulatory standards  
+- Contributed to **two audit automation + compliance tracking initiatives**, improving operational efficiency by **~30%**  
+- Built **Excel-based automation and reporting dashboards** (advanced formulas/templates), reducing manual compliance effort by **~40%**  
+- Collaborated with IT and control owners to strengthen evidence collection and documentation for **ITGC/ITAC** areas (access, change, operations)
 
-🤖 AI should augment analysts, not replace judgment — automation must be explainable and auditable
+### Illumine Career Center, India  
+**Penetration Tester — Intern** | *Jan 2022 – May 2022*  
+- Conducted **web and network security testing** and helped remediate **12+ vulnerabilities** across applications and infrastructure  
+- Supported **RBAC-focused access control improvements**, reducing unauthorized access incidents by **~25%**  
+- Assisted with application hardening, troubleshooting, and IT support, maintaining **~99% uptime** for key systems  
+- Documented findings with clear remediation recommendations and supported secure UI improvements during front-end updates  
 
-⚙️ Detection and response are as critical as prevention — failures are inevitable; resilience is not optional
+### Revisewell, India  
+**Security Engineer** | *Jan 2020 – Dec 2021*  
+- Developed foundational security practices by drafting **policies/standards/SOPs** aligned with the **CIS framework**  
+- Secured AWS environments using **least-privilege IAM**, **VPC/security group controls**, and **S3 policies**, reducing cloud exposure by **~60%**  
+- Supported incident response investigations and improved detection by creating **SIEM rules** and **SQL-based hunting queries**  
+- Automated vulnerability management workflows with **Python/PowerShell**, driving a **~40% reduction in critical vulnerabilities** and improving IAM hygiene
 
-🔐 Security is a continuous process — shaped by threat modeling, feedback loops, and constant learning
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
 
-I enjoy breaking down complex systems, understanding attacker behavior, and building defenses that are measurable, scalable, and automation-ready.
+## 🧿 Rule of Thumb
 
-🧰 Security & Engineering Toolbox
+“If it isn’t logged, it didn’t happen. If it isn’t alerted, it won’t be noticed.”
 
-Programming & Scripting
-Python Java C/C++ Bash PowerShell SQL HTML/CSS
-
-Offensive & Defensive Security Tools
-Metasploit Burp Suite Nmap Wireshark Nessus OpenVAS
-Snort Splunk TryHackMe Hack The Box
-
-Cloud & Operating Systems
-AWS Azure GCP
-Red Hat Enterprise Linux Ubuntu Windows Server
-
-Frameworks & Dev Tools
-Flask FastAPI React.js Docker
-PostgreSQL MongoDB GitHub VS Code
-
-Security & Identity
-IAM RBAC MFA OAuth 2.0 JWT
-SIEM Security Automation CI/CD Security HIPAA
-
-🎓 Certifications
-
-🟣 AWS
-
-AWS Certified Security – Specialty (SCS-C02) (2025)
-
-AWS Academy: Cloud Security Builder, Foundations, Operations, Foundations (2025)
-
-🟢 Red Hat
-
-System Administration I & II (RH124 / RH134) (2025)
-
-OpenShift Administration I (DO180) (2025)
-
-🔵 Microsoft & Google
-
-Career Essentials in Cybersecurity – Microsoft & LinkedIn (2025)
-
-Google Cybersecurity Specialization (2024)
-
-🟠 Hands-On Labs & Simulations
-
-Cybersecurity Analyst Job Simulation – Tata Group (Forage) (2024)
-
-🟢 Academic Programs
-
-PG Diploma in Cybersecurity – NIT Rourkela (2023)
-
-Python Programming Certification – IANT (2022)
-
-🛡️ Industry Certifications
-
-CompTIA Security+ (SY0-701) (2025)
-
-🎯 In Progress / Planned
-
-CEH – Certified Ethical Hacker (Target: Fall 2025)
-
-CompTIA CySA+ (Next)
-
-OSCP | AZ-500 (Future Goals)
-
-💼 Professional Experience
-
-Technology Risk Management Analyst – Business Consulting
-Ernst & Young (EY) – Global Delivery Services
-June 2022 – December 2023
-
-Conducted 10+ technology, business, and security audits aligned with global compliance standards
-
-Supported audit automation and compliance monitoring, improving operational efficiency by 30%
-
-Optimized compliance data workflows, reducing manual reporting effort by 40%
-
-Collaborated with IT teams on ITACs and ITGCs, strengthening control enforcement
-
-Penetration Tester – Intern
-Illumine Career Center
-January 2022 – May 2022
-
-Performed penetration testing and identified 12+ vulnerabilities across applications and networks
-
-Assisted with security architecture reviews and RBAC-based access control deployment
-
-Improved application security posture while maintaining 99% system uptime
-
-🏆 Highlights & Hackathons
-
-🥈 Finalist – George Hacks 2025
-Built MOM (My Own Medic) — an AI-powered healthcare assistant integrating EHRs with secure, HIPAA-aware design and predictive analytics.
-
-🎮 TryHackMe CTF Participant
-Completed intensive offensive security challenges covering pentesting, reverse engineering, and red team techniques.
-
-🛡️ Completed multiple TryHackMe & Hack The Box labs
-
-🏅 Guinness World Record Holder – Classical & Western Dance
-
-📬 Let’s Connect
-
-📧 Email: priyeshem3@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/priyesh-em-/
-
-🌐 Portfolio: https://beast99-p3.github.io/Portfolio/
-
-📍 Washington, D.C., USA
-
-🔐 Motto
-
-“Security isn’t a feature — it’s a mindset.”
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=130&section=footer&animation=twinkling" alt="footer" /> </p> 
