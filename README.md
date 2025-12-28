@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=190&section=header&text=Priyesh%20EM&fontSize=54&fontColor=00ff9c&animation=twinkling&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=190&section=header&text=Priyesh%20Elluru%20Muralikrishna&fontSize=54&fontColor=00ff9c&animation=twinkling&fontAlignY=35"
     alt="header"
   />
 </p>
@@ -95,11 +95,11 @@ EXPLORING:  LLM Security • Agentic AI Risks • AI-assisted threat analysis
 
 ## 🚀 Featured Security Projects
 
-SIEM Sentinel — Web-based SIEM tool for security log analysis, threat detection, and geolocation enrichment
+- SIEM Sentinel — Web-based SIEM tool for security log analysis, threat detection, and geolocation enrichment
 🔗 https://github.com/beast99-p3/Sentinel-SIEM  
-CTI Dashboard — IP reputation + investigation dashboard powered by AbuseIPDB API
+- CTI Dashboard — IP reputation + investigation dashboard powered by AbuseIPDB API
 🔗 https://github.com/beast99-p3  
-Portfolio — Projects, hackathons, and write-ups
+- Portfolio — Projects, hackathons, and write-ups
 🔗 https://beast99-p3.github.io/Portfolio/
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=2" width="850" alt="divider" /> </p>
