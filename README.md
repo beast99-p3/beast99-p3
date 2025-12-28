@@ -21,19 +21,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyesh-em-/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="linkedin" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0a0a0a&style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" />
   </a>
   <a href="https://beast99-p3.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c" alt="portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0a0a0a?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c" alt="Portfolio" />
   </a>
   <a href="mailto:priyeshem3@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="email" />
+    <img src="https://img.shields.io/badge/Email-Contact-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email" />
   </a>
   <a href="https://github.com/beast99-p3">
-    <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub" />
   </a>
 </p>
-
 <br/>
 
 <p align="center">
